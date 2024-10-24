@@ -1,1 +1,18 @@
 -c requirements-dev.txt
+
+# Data Manipulation and Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Statistical Test
+scipy
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Web Application Framework
+streamlit
